@@ -1,0 +1,35 @@
+[
+  {
+		"name": "Polynesia",
+		"leaderName": "Kamehameha I",
+		"adjective": ["Polynesia"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Cultural",
+
+        "startIntroPart1": "Aloha to Kamehameha the Great, who the heavens allowed to unite your people! O great King, under your reign, the Big Island of Hawai'i became one in 1791 AD, and many other islands joined your vision of union in 1810. As the first King of Hawai'i, law and taxation systems were stabilized, and you promoted the Mamalahoe Kawanai, an edict to protect civilian people in times of war. Unification and sovereignty of all the islands continued thanks to your fair laws and deeds, even after you joined your ancestors in paradise in 1819.",
+        "startIntroPart2": "Wise and benevolent King, will you unite your people once again by wearing the bright mantle of the Lion of the Pacific? Will your new empire shine through the ages of history?",
+
+        "declaringWar": "The ancient fire flashing across the sky is what proclaimed that this day would come, though I had foolishly hoped for a different outcome.",
+		"attacked": "It is obvious now that I misjudged you and your true intentions.",
+		"defeated": "The hard-shelled crab yields, and the lion lies down to sleep. Kanaloa comes for me now.",
+		"introduction": "Aloha! Greetings and blessings upon you, friend. I am Kamehameha, Great King of this strand of islands.",
+		"neutralHello": "Welcome, friend!",
+		"hateHello": "Oh, it's you.",
+		"tradeRequest": "Come, let our people feast together!",
+		"outerColor": [217,89,0],
+		"innerColor": [255,255,75],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Wayfinding",
+		"uniques": ["Enables embarkation for land units <starting from the [Ancient era]>",
+            "Enables [All] units to enter ocean tiles <starting from the [Ancient era]>",
+            "[+1] Sight <for [Embarked] units>",  "[+10]% Strength <within [2] tiles of a [Moai]>",
+            "[+1 Culture] from every [Pasture]","[+1 Gold] from every [Plantation]","[+1 Happiness] from every [Camp]","[+1 Production] from every [Quarry]",
+                    "[+1 Food] from every [Fishing Boats]","[+1 Faith] from every [Fort]","[+1 Science] from every [Oil Well]","[+50]% Natural religion spread [in all cities]",
+                    "May choose [5] additional belief(s) of any type when [founding] a religion","[+1 Science] from every [Offshore Platform]"],
+		"cities": ["Honolulu","Samoa","Tonga","Nuku Hiva","Raiatea","Aotearoa","Tahiti","Hilo","Te Wai Pounamu","Rapa Nui",
+			"Tuamotu","Rarotonga","Tuvalu","Tubuai","Mangareva","Oahu","Kiritimati","Ontong Java","Niue","Rekohu",
+			"Rakahanga","Bora Bora","Kailua","Uvea","Futuna","Rotuma","Tokelau","Lahaina","Bellona","Mungava","Tikopia",
+			"Emae","Kapingamarangi","Takuu","Nukuoro","Sikaiana","Anuta","Nuguria","Pileni","Nukumanu"],
+        "spyNames": ["Tiki", "Hotu Matua", "Rongo-ma-tane", "Kupe", "Haloti", "Degei", "Babamik", "Kulu Lau", "Nangananga", "Turua"]
+    }
+]
