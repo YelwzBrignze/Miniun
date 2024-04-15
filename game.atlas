@@ -45,3 +45,36 @@ ImprovementIcons/Dzirvanas
   offset: 0, 0
   index: -1
 
+game0.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/FantasyHex/Tiles/Colossal Head
+  rotate: false
+  xy: 836, 1144
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Desert Plantation
+  rotate: false
+  xy: 4, 4
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Kurgan
+  rotate: false
+  xy: 1976, 1976
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Seaside Stall
+  rotate: false
+  xy: 628, 900
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
