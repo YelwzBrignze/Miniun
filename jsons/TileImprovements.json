@@ -162,6 +162,15 @@
 "Can be built outside your borders"]
 	},
 	{
+		"name": "Dzirvanas",
+		"uniqueTo": "Arcadia",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"food": 1,
+		"turnsToBuild": 8,
+		"uniques": ["[+1 Food] <after discovering [Fertilizer]>","[+1 Production] <after discovering [Civil Service]>","[+1 Production] for each adjacent [Dzirvanas]"],
+		"techRequired": "Masonry"
+	},
+	{
 		"name": "Seaside Stall",
 		"gold": 1,
 		"terrainsCanBeBuiltOn": ["Land"],
@@ -204,5 +213,110 @@
 		"faith": 1,
 		"techRequired": "Pottery",
 		"uniques": ["Gives a defensive bonus of [50]%"]
+	},
+	{
+		"name": "Sacred altar",
+		"uniqueTo": "Lithuania",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"faith": 1,
+		"uniques": ["Tile provides yield without assigned population"]
+	},
+	{
+		"name": "Chateau",
+		"uniqueTo": "France",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"gold": 1,
+		"culture": 2,
+		"turnsToBuild":7,
+		"techRequired": "Chivalry",
+		"uniques": ["Can only be built on [Land] tiles <with [1] to [6] neighboring [Luxury resource] tiles>","Cannot be built on [Land] tiles <with [1] to [6] neighboring [Chateau] tiles>","Gives a defensive bonus of [50]%","[+2 Gold, +1 Culture] <after discovering [Flight]>"]
+	},
+	{
+		"name": "Brazilwood Camp",
+		"uniqueTo": "Brazil",
+		"terrainsCanBeBuiltOn": ["Jungle"],
+		"gold": 2,
+		"turnsToBuild": 7,
+		"techRequired": "Machinery",
+		"uniques": ["[+2 Culture] <after discovering [Acoustics]>"]
+	},
+		{
+		"name": "Feitoria",
+		"uniqueTo": "Portugal",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"turnsToBuild": 7,
+		"gold": 1,
+		"happiness": 1,
+		"techRequired": "Navigation",
+		"uniques": ["Gives a defensive bonus of [50]%","Must be next to [City center]","Can only be built on [Coastal] tiles"]
+	},
+	{
+		"name": "Kasbah",
+		"uniqueTo": "Morocco",
+		"terrainsCanBeBuiltOn": ["Desert","Flood plains"],
+		"food": 1,
+		"production": 1,
+		"gold": 1,
+		"turnsToBuild": 7,
+		"techRequired": "Chivalry",
+		"uniques": ["Gives a defensive bonus of [50]%"]
+	},
+	{
+		"name": "Coffee Hacienda",
+		"uniqueTo": "Colombia",
+		"terrainsCanBeBuiltOn": ["Hill"],
+		"uniques": ["Provides [1] [Coffee]",
+			"Cannot be built on [Tundra] tiles","Cannot be built on [Snow] tiles","Cannot be built on [Desert] tiles","Does not need removal of [Jungle]",
+			"Great Improvement","Will not be displayed in Civilopedia",
+			"Pillaging this improvement yields approximately [+57 Gold]",
+		]
+	},
+	{
+		"name": "Vigilance Post",
+		"uniqueTo": "El Salvador",
+		"techRequired": "Economics",
+		"replaces": "Fort",
+		"gold": 2,
+		"production": 1,
+		"terrainsCanBeBuiltOn": ["Plains","Grassland","Hill","Forest","Jungle"],
+		"turnsToBuild": 9,
+		"uniques": ["Gives a defensive bonus of [25]%", "Adjacent enemy units ending their turn take [10] damage",
+				"Costs [1] [Gold] per turn when in your territory"],
+	},
+	{
+		"name": "Darien Gap",
+		"uniqueTo": "Panama",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"production": -2,
+		"techRequired": "Agriculture",
+		"uniques": [
+			"[+1 Food, +1 Culture] <after discovering [Pottery]>",
+			"[+1 Science, +1 Culture] <after discovering [Scientific Theory]>",
+			"Units ending their turn on this tile take 50 damage when healing",
+			"All units must spend 3 extra movement points when inside the Darien Gap",
+				"Unpillagable",
+				"Can be built just outside your borders",
+				"Great Improvement",
+				"Cannot be built on [Desert] tiles", 
+				"Cannot be built on [Tundra] tiles",
+				"Does not need removal of [Jungle]",
+				"Does not need removal of [Forest]",
+				"Does not need removal of [Marsh]"
+				],
+		"civilopediaText": [
+			{
+				"text": "The Gap of Darien, located in our world where it forms the border of Colombia and Panama, has shaped the history of the isthmus so greatly, even before civilization. An indomitable strip of hills, jungles and mountains, full of dangerous animals and illnesses, the Gap is the great wall that separates Panama from the rest of the continent."
+			}
+		]
+	},
+	{
+		"name": "Panama Canal",
+		"uniqueTo": "Panama",
+		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Forest","Jungle"],
+		"uniques": ["[+1 Gold] for each adjacent [Coast]"
+			"Cannot be built on [Tundra] tiles","Cannot be built on [Snow] tiles",
+			"Removes removable features when built", "Costs [1] [Gold] per turn when in your territory",
+			"Great Improvement","Will not be displayed in Civilopedia","Unpillagable","Irremovable"
+		],
 	}
   ]
