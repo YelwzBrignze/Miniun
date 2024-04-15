@@ -10,3 +10,38 @@ TileSets/FantasyHex/Tiles/Holy Place
   orig: 32, 36
   offset: 0, 0
   index: -1
+
+game.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+ImprovementIcons/Kampung
+  rotate: false
+  xy: 100, 800
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Idendo
+  rotate: false
+  xy: 100, 700
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Jolopong
+  rotate: false
+  xy: 0, 800
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Dzirvanas
+  rotate: false
+  xy: 400, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+
