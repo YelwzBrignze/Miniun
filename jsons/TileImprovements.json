@@ -99,6 +99,7 @@
 	//Civilization unique improvements
   {
 		"name": "Moai",
+	  	"uniqueTo": "Polynesia",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"culture": 1,
 		"turnsToBuild": 4,
@@ -134,12 +135,12 @@
 	//Special
 	{
        "name": "Kampung",
-       "terrainsCanBeBuiltOn": ["Land","Coast","Lakes"],
+       "terrainsCanBeBuiltOn": ["Coast","Land"],
        "production":1,
        "techRequired":"Optics",
        "turnsToBuild": 7,
        "uniques": ["Can be built outside your borders","[+1 Food, +1 Production] for each adjacent [Fishing Boats]","[+1 Food] for each adjacent [Great Improvement]","[+1 Production] <after discovering [Astronomy]>",
-			"[+1 Culture] <after discovering [Flight]>"]
+			"[+1 Culture] <after discovering [Flight]>","[+2 Food] from [Lakes] tiles [in this city]","[+2 Food] from [River] tiles [in this city]","[-2 Food, -1 Production] from [Desert] tiles [in this city]"]
    },
 	{
 		"name": "Idendo",
@@ -167,7 +168,7 @@
 		"terrainsCanBeBuiltOn": ["Land"],
 		"food": 1,
 		"turnsToBuild": 8,
-		"uniques": ["[+1 Food] <after discovering [Fertilizer]>","[+1 Production] <after discovering [Civil Service]>","[+1 Production] for each adjacent [Dzirvanas]"],
+		"uniques": ["Can be built outside your borders","[+1 Food] <after discovering [Fertilizer]>","[+1 Production] <after discovering [Civil Service]>","[+1 Production] for each adjacent [Dzirvanas]"],
 		"techRequired": "Masonry"
 	},
 	{
@@ -176,7 +177,7 @@
 		"terrainsCanBeBuiltOn": ["Land"],
 		"turnsToBuild": 8,
 		"techRequired": "Currency",
-		"uniques": ["Can only be built on [Coastal] tiles","[+1 Food] for each adjacent [Fishing Boats]","[+1 Production] <after discovering [Navigation]>"]
+		"uniques": ["Can be built outside your borders","Can only be built on [Coastal] tiles","[+1 Food] for each adjacent [Fishing Boats]","[+1 Production] <after discovering [Navigation]>"]
 	},
 		{
 		"name": "Colossal Head",
@@ -184,7 +185,7 @@
 		"faith": 1,
 		"turnsToBuild": 6,
 		"techRequired": "Calendar",
-		"uniques": ["[+1 Culture] <after discovering [Archaeology]>","[+1 Science] for each adjacent [Great Improvement]","[+1 Science] for each adjacent [Great Improvement] <after discovering [Astronomy]>"]
+		"uniques": ["Can be built outside your borders","[+1 Culture] <after discovering [Archaeology]>","[+1 Science] for each adjacent [Great Improvement]","[+1 Science] for each adjacent [Great Improvement] <after discovering [Astronomy]>"]
 	},
 		{
 		"name": "Desert Plantation",
@@ -192,7 +193,7 @@
 		"gold": 2,
 		"turnsToBuild": 6,
 		"techRequired": "Mathematics",
-		"uniques": ["Cannot be built on [Luxury resource] tiles","Provides [1] [Incense]","[+1 Gold] <after discovering [Economics]>","Cannot be built on [Flood plains] tiles"]
+		"uniques": ["Can be built outside your borders","Cannot be built on [Luxury resource] tiles","Provides [1] [Incense]","[+1 Gold] <after discovering [Economics]>","Cannot be built on [Flood plains] tiles"]
 	},
 			{
 		"name": "Kurgan",
@@ -201,7 +202,7 @@
 		"faith": 1,
 		"turnsToBuild": 8,
 		"techRequired": "Masonry",
-		"uniques": ["[+1 Culture] <after discovering [Archaeology]>"]
+		"uniques": ["Can be built outside your borders","[+1 Culture] <after discovering [Archaeology]>","Pillaging this improvement yields approximately [+50 Gold]"]
 	},
 	{
 		"name": "Holy Place",
@@ -212,7 +213,7 @@
 		"food": 1,
 		"faith": 1,
 		"techRequired": "Pottery",
-		"uniques": ["Gives a defensive bonus of [50]%"]
+		"uniques": ["Can be built outside your borders","Gives a defensive bonus of [50]%"]
 	},
 	{
 		"name": "Sacred altar",
