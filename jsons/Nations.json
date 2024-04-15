@@ -31,5 +31,101 @@
 			"Rakahanga","Bora Bora","Kailua","Uvea","Futuna","Rotuma","Tokelau","Lahaina","Bellona","Mungava","Tikopia",
 			"Emae","Kapingamarangi","Takuu","Nukuoro","Sikaiana","Anuta","Nuguria","Pileni","Nukumanu"],
         "spyNames": ["Tiki", "Hotu Matua", "Rongo-ma-tane", "Kupe", "Haloti", "Degei", "Babamik", "Kulu Lau", "Nangananga", "Turua"]
-    }
+    },
+	{
+		"name": "Asil",
+		"adjective": ["Asili"],
+		"cityStateType": "Industrial",
+		"uniques": ["[+100]% Production when constructing [Worker] units [in capital]"],
+		
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "The great things we'll about to create are gone.",
+		"outerColor": [ 20,20,20],
+		"innerColor": [189,99, 0],
+		"cities": ["Asil"],
+		"civilopediaText": [
+			{"text": "A group of dwarfs inhabited in the historical region of Aaru on the Pangaea. it was incorporated into Polgar Sod'em after the political marriage between the Sodites Prince Yurrgin with the Asili Princess Disa."},
+		]
+	},
+	{
+		"name": "Canthyria",
+		"adjective": ["Centaurs"],
+		"cityStateType": "Industrial",
+		"startBias": ["Plains"],
+		"uniques": ["[+1] Movement <for [Land] units>"],
+		
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "A barbarian like you will never enough with just a horse. I am not a horse!",
+		"defeated": "I don't like you, not from the beginning.",
+		"outerColor": [ 20, 20, 20],
+		"innerColor": [199,59,19],
+		"cities": ["Canthyria"],
+		"civilopediaText": [
+			{"text": "A centaurs state inhabited the souteastern part of the Rain Forest. it was divided into two groups, one group remain in their home, while the other group joined Niranna after the marriage between Thanue and Araros son of Aratoros."},
+		]
+	},
+	{
+		"name": "Clockwerk",
+		"adjective": ["Clockwerks"],
+		"cityStateType": "Scientific",
+		"uniques": ["[+1 Science] from all [Science] buildings"],
+		
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Guess I'll work for you then.",
+		"outerColor": [ 20,20,20],
+		"innerColor": [150,87,42],
+		"cities": ["Clockwerk"],
+		"civilopediaText": [
+			{"text": "A human kingdom on the Tanait plains in the north-central part of Balvaria, bordered with the Berenger Kingdom to the North and the Duchy of Nas to the West. It was one of the founding members of the Aeyris Alliances."}
+		]
+	},
+	{
+		"name": "Dayne",
+		"adjective": ["Daynian"],
+		"cityStateType": "Industrial",
+		"uniques": ["[-50]% construction time for [All] improvements"],
+		
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Just because you can't pay me, you declare war on me?",
+		"defeated": "Just take all of my slave, will you?",
+		"outerColor": [ 20, 20, 20],
+		"innerColor": [239,169,119],
+		"cities": ["Dayne"],
+		"civilopediaText": [
+			{"text": "A human city-state on the Llotidea Continent. It was often involved in rivalry with the dwarven kingdom of Manthrill to the northwest and the Thallin Empire to the west. The kingdom fell after being attacked by Torakj."},
+		]
+	},
+	{
+		"name": "Kov",
+		"adjective": ["Kobolds"],
+		"cityStateType": "Scientific",
+		"startBias": ["Hill"],
+		"uniques": ["Gain a free [University] [in capital]"],
+		
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "So what is the meaning of a miner?",
+		"outerColor": [ 20,20,20],
+		"innerColor": [150,87,42],
+		"cities": ["Kov"]
+	},
+	{
+		"name": "Rog",
+		"adjective": ["Roge"],
+		"cityStateType": "Scientic",
+		"startBias": ["Jungle"],
+		"uniques": ["All newly-trained [Melee] units [in capital] receive the [Charge] promotion"],
+		
+		"declaringWar": "Hungry ... hungry for eternity ...",
+		"attacked": "I am hungry of a fresh flesh myself!",
+		"defeated": "I hope you'll spare me your leftover to eat.",
+		"outerColor": [ 20, 20, 20],
+		"innerColor": [239,169,119],
+		"cities": ["Rog"],
+		"civilopediaText": [
+			{"text": "Horde of ogre on the Balvaria. It helped Saeth of Tugu during the First Balvarian War."},
+		]
+	},
 ]
