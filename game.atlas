@@ -78,3 +78,23 @@ TileSets/FantasyHex/Tiles/Seaside Stall
   orig: 32, 28
   offset: 0, 0
   index: -1
+
+game2.png
+size: 2048, 1024
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/FantasyHex/Tiles/Sacred altar
+  rotate: false
+  xy: 1460, 417
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Sacred altar
+  rotate: false
+  xy: 1252, 808
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
