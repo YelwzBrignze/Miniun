@@ -206,7 +206,7 @@
 	},
 	{
 		"name": "Holy Place",
-		"terrainsCanBeBuiltOn": ["Plains"],
+		"terrainsCanBeBuiltOn": ["Land"],
 		"turnsToBuild": 8,
 		"happiness": 2,
 		"culture": 1,
@@ -220,7 +220,7 @@
 		"uniqueTo": "Lithuania",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"faith": 1,
-		"uniques": ["Tile provides yield without assigned population"]
+		"uniques": ["Can be built outside your borders","Tile provides yield without assigned population"]
 	},
 	{
 		"name": "Chateau",
@@ -230,7 +230,7 @@
 		"culture": 2,
 		"turnsToBuild":7,
 		"techRequired": "Chivalry",
-		"uniques": ["Can only be built on [Land] tiles <with [1] to [6] neighboring [Luxury resource] tiles>","Cannot be built on [Land] tiles <with [1] to [6] neighboring [Chateau] tiles>","Gives a defensive bonus of [50]%","[+2 Gold, +1 Culture] <after discovering [Flight]>"]
+		"uniques": ["Can be built outside your borders","Can only be built on [Land] tiles <with [1] to [6] neighboring [Luxury resource] tiles>","Cannot be built on [Land] tiles <with [1] to [6] neighboring [Chateau] tiles>","Gives a defensive bonus of [50]%","[+2 Gold, +1 Culture] <after discovering [Flight]>"]
 	},
 	{
 		"name": "Brazilwood Camp",
@@ -239,7 +239,7 @@
 		"gold": 2,
 		"turnsToBuild": 7,
 		"techRequired": "Machinery",
-		"uniques": ["[+2 Culture] <after discovering [Acoustics]>"]
+		"uniques": ["Can be built outside your borders","[+2 Culture] <after discovering [Acoustics]>"]
 	},
 		{
 		"name": "Feitoria",
@@ -249,7 +249,7 @@
 		"gold": 1,
 		"happiness": 1,
 		"techRequired": "Navigation",
-		"uniques": ["Gives a defensive bonus of [50]%","Must be next to [City center]","Can only be built on [Coastal] tiles"]
+		"uniques": ["Can be built outside your borders","Gives a defensive bonus of [50]%","Must be next to [City center]","Can only be built on [Coastal] tiles"]
 	},
 	{
 		"name": "Kasbah",
@@ -260,13 +260,13 @@
 		"gold": 1,
 		"turnsToBuild": 7,
 		"techRequired": "Chivalry",
-		"uniques": ["Gives a defensive bonus of [50]%"]
+		"uniques": ["Can be built outside your borders","Gives a defensive bonus of [50]%"]
 	},
 	{
 		"name": "Coffee Hacienda",
 		"uniqueTo": "Colombia",
 		"terrainsCanBeBuiltOn": ["Hill"],
-		"uniques": ["Provides [1] [Coffee]",
+		"uniques": ["Can be built outside your borders","Provides [1] [Spices]",
 			"Cannot be built on [Tundra] tiles","Cannot be built on [Snow] tiles","Cannot be built on [Desert] tiles","Does not need removal of [Jungle]",
 			"Great Improvement","Will not be displayed in Civilopedia",
 			"Pillaging this improvement yields approximately [+57 Gold]",
@@ -281,7 +281,7 @@
 		"production": 1,
 		"terrainsCanBeBuiltOn": ["Plains","Grassland","Hill","Forest","Jungle"],
 		"turnsToBuild": 9,
-		"uniques": ["Gives a defensive bonus of [25]%", "Adjacent enemy units ending their turn take [10] damage",
+		"uniques": ["Can be built outside your borders","Gives a defensive bonus of [25]%", "Adjacent enemy units ending their turn take [10] damage",
 				"Costs [1] [Gold] per turn when in your territory"],
 	},
 	{
@@ -290,7 +290,7 @@
 		"terrainsCanBeBuiltOn": ["Land"],
 		"production": -2,
 		"techRequired": "Agriculture",
-		"uniques": [
+		"uniques": ["Can be built outside your borders",
 			"[+1 Food, +1 Culture] <after discovering [Pottery]>",
 			"[+1 Science, +1 Culture] <after discovering [Scientific Theory]>",
 			"Units ending their turn on this tile take 50 damage when healing",
@@ -314,7 +314,7 @@
 		"name": "Panama Canal",
 		"uniqueTo": "Panama",
 		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Forest","Jungle"],
-		"uniques": ["[+1 Gold] for each adjacent [Coast]"
+		"uniques": ["[+1 Gold] for each adjacent [Coast]","Can be built outside your borders",
 			"Cannot be built on [Tundra] tiles","Cannot be built on [Snow] tiles",
 			"Removes removable features when built", "Costs [1] [Gold] per turn when in your territory",
 			"Great Improvement","Will not be displayed in Civilopedia","Unpillagable","Irremovable"
