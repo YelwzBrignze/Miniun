@@ -289,3 +289,18 @@ Just a difficulty change
 			{"text": "Horde of ogre on the Balvaria. It helped Saeth of Tugu during the First Balvarian War."},
 		]
 	}
+{
+		"name": "Dzirvanas",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"food": 1,
+		"turnsToBuild": 8,
+		"uniques": ["Can be built outside your borders","[+1 Food] <after discovering [Fertilizer]>","[+1 Production] <after discovering [Civil Service]>","[+1 Production] for each adjacent [Dzirvanas]"],
+		"techRequired": "Masonry"
+	},
+	ImprovementIcons/Dzirvanas
+  rotate: false
+  xy: 400, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
