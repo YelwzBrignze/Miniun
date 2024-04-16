@@ -31,38 +31,5 @@
 			"Rakahanga","Bora Bora","Kailua","Uvea","Futuna","Rotuma","Tokelau","Lahaina","Bellona","Mungava","Tikopia",
 			"Emae","Kapingamarangi","Takuu","Nukuoro","Sikaiana","Anuta","Nuguria","Pileni","Nukumanu"],
         "spyNames": ["Tiki", "Hotu Matua", "Rongo-ma-tane", "Kupe", "Haloti", "Degei", "Babamik", "Kulu Lau", "Nangananga", "Turua"]
-    },
-	{
-		"name": "Canthyria",
-		"adjective": ["Centaurs"],
-		"cityStateType": "Industrial",
-		"startBias": ["Plains"],
-		
-		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "A barbarian like you will never enough with just a horse. I am not a horse!",
-		"defeated": "I don't like you, not from the beginning.",
-		"outerColor": [ 20, 20, 20],
-		"innerColor": [199,59,19],
-		"cities": ["Canthyria"],
-		"civilopediaText": [
-			{"text": "A centaurs state inhabited the souteastern part of the Rain Forest. it was divided into two groups, one group remain in their home, while the other group joined Niranna after the marriage between Thanue and Araros son of Aratoros."},
-		]
-	},
-	{
-		"name": "Rog",
-		"adjective": ["Roge"],
-		"cityStateType": "Scientic",
-		"startBias": ["Jungle"],
-		
-		"declaringWar": "Hungry ... hungry for eternity ...",
-		"attacked": "I am hungry of a fresh flesh myself!",
-		"defeated": "I hope you'll spare me your leftover to eat.",
-		"outerColor": [ 20, 20, 20],
-		"innerColor": [239,169,119],
-		"cities": ["Rog"],
-		"civilopediaText": [
-			{"text": "Horde of ogre on the Balvaria. It helped Saeth of Tugu during the First Balvarian War."},
-		]
-	}
-	
+    }
 ]
