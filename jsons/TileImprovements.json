@@ -163,14 +163,6 @@
 "Can be built outside your borders"]
 	},
 	{
-		"name": "Dzirvanas",
-		"terrainsCanBeBuiltOn": ["Land"],
-		"food": 1,
-		"turnsToBuild": 8,
-		"uniques": ["Can be built outside your borders","[+1 Food] <after discovering [Fertilizer]>","[+1 Production] <after discovering [Civil Service]>","[+1 Production] for each adjacent [Dzirvanas]"],
-		"techRequired": "Masonry"
-	},
-	{
 		"name": "Seaside Stall",
 		"gold": 1,
 		"terrainsCanBeBuiltOn": ["Land"],
