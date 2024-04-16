@@ -216,10 +216,8 @@
 	},
 	{
 		"name": "Sacred altar",
-		"uniqueTo": "Lithuania",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"faith": 1,
 		"uniques": ["Can be built outside your borders","Tile provides yield without assigned population"]
 	},
-	
   ]
