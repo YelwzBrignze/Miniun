@@ -37,13 +37,6 @@ ImprovementIcons/Jolopong
   orig: 100, 100
   offset: 0, 0
   index: -1
-ImprovementIcons/Dzirvanas
-  rotate: false
-  xy: 400, 0
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
 
 game0.png
 size: 2048, 2048
