@@ -290,4 +290,71 @@ Just a difficulty change
 		]
 	}
 
-
+game3.png
+size: 2048, 512
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+ImprovementIcons/Brazilwood Camp
+  rotate: false
+  xy: 4, 62
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Chateau
+  rotate: false
+  xy: 220, 278
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Feitoria
+  rotate: false
+  xy: 436, 278
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Kasbah
+  rotate: false
+  xy: 544, 170
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+  TileSets/FantasyHex/Tiles/Chateau
+  rotate: false
+  xy: 1084, 71
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Feitoria
+  rotate: false
+  xy: 1142, 127
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Grassland+Jungle+Brazilwood Camp
+  rotate: false
+  xy: 1250, 239
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Kasbah
+  rotate: false
+  xy: 1358, 349
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+  NationIcons/Venice
+  rotate: false
+  xy: 976, 62
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
