@@ -44,11 +44,74 @@ ImprovementIcons/Jolopong
   orig: 100, 100
   offset: 0, 0
   index: -1
-	ImprovementIcons/Dzirvanas
+ImprovementIcons/Dzirvanas
   rotate: false
   xy: 400, 0
   size: 100, 100
   orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Idendo
+  rotate: false
+  xy: 256, 0
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Desert+Dzirvanas
+  rotate: false
+  xy: 0, 64
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Desert+Flood plains+Dzirvanas
+  rotate: false
+  xy: 32, 64
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Grassland+Dzirvanas
+  rotate: false
+  xy: 64, 64
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Plains+Dzirvanas
+  rotate: false
+  xy: 96, 64
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Snow+Dzirvanas
+  rotate: false
+  xy: 128, 64
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Tundra+Dzirvanas
+  rotate: false
+  xy: 160, 64
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Jolopong
+  rotate: false
+  xy: 288, 0
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Kampung
+  rotate: false
+  xy: 64, 0
+  size: 32, 32
+  orig: 32, 32
   offset: 0, 0
   index: -1
 
