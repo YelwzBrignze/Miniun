@@ -228,7 +228,7 @@
 		"culture": 2,
 		"turnsToBuild":7,
 		"techRequired": "Chivalry",
-		"uniques": ["Can only be built on [Land] tiles <with [1] to [6] neighboring [Luxury resource] tiles>","Cannot be built on [Land] tiles <with [1] to [6] neighboring [Chateau] tiles>","Gives a defensive bonus of [50]%","[+2 Gold, +1 Culture] <after discovering [Flight]>"]
+		"uniques": ["Can be built outside your borders","Can only be built on [Land] tiles <with [1] to [6] neighboring [Luxury resource] tiles>","Cannot be built on [Land] tiles <with [1] to [3] neighboring [Chateau] tiles>","Gives a defensive bonus of [50]%","[+2 Gold, +1 Culture] <after discovering [Flight]>"]
 	},
 	{
 		"name": "Brazilwood Camp",
@@ -237,7 +237,7 @@
 		"gold": 2,
 		"turnsToBuild": 7,
 		"techRequired": "Machinery",
-		"uniques": ["[+2 Culture] <after discovering [Acoustics]>"]
+		"uniques": ["Can be built outside your borders","[+2 Culture] <after discovering [Acoustics]>"]
 	},
 		{
 		"name": "Feitoria",
@@ -247,7 +247,7 @@
 		"gold": 1,
 		"happiness": 1,
 		"techRequired": "Navigation",
-		"uniques": ["Gives a defensive bonus of [50]%","Must be next to [City center]","Can only be built on [Coastal] tiles"]
+		"uniques": ["Can be built outside your borders","Gives a defensive bonus of [50]%","Must be next to [City center]","Can only be built on [Coastal] tiles"]
 	},
 	{
 		"name": "Kasbah",
@@ -258,6 +258,6 @@
 		"gold": 1,
 		"turnsToBuild": 7,
 		"techRequired": "Chivalry",
-		"uniques": ["Gives a defensive bonus of [50]%"]
+		"uniques": ["Can be built outside your borders","Gives a defensive bonus of [50]%"]
 	},
   ]
