@@ -164,7 +164,6 @@
 	},
 	{
 		"name": "Dzirvanas",
-		"uniqueTo": "Arcadia",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"food": 1,
 		"turnsToBuild": 8,
