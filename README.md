@@ -232,3 +232,28 @@ Just a difficulty change
 		"color": [255,255,255]
 	}
 	}
+[
+	{
+		"name": "Industrial",
+		"friendBonusUniques": [
+			"[+2 Production] [in capital]"
+		],
+		"allyBonusUniques": [
+			"[+2 Production] [in capital]",
+			"[+1 Production] [in all cities]"
+		],
+		"color": [139,69,19]
+	},
+	
+	{
+		"name": "Scientific",
+		"friendBonusUniques": [
+			"[+3 Science] [in capital]"
+		],
+		"allyBonusUniques": [
+			"[+3 Science] [in capital]",
+			"[+2 Science] [in all cities]"
+		],
+		"color": [84,215,247]
+	}
+]
