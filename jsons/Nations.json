@@ -63,8 +63,8 @@
 	      "uniqueName": "The Rich City-states",
 	      "uniques": ["[+50]% [Gold] from Trade Routes","Cannot build [Settler] units","Receive free [Settler] when you discover [Optics]","Receive free [Settler] when you discover [Astronomy]",
 	      			"Receive free [Great Merchant] when you discover [Currency]","[-10]% Culture cost of adopting new Policies",],
-	      "outerColor": [89,78,24],
-		  "innerColor": [255,223,0],
+	      "outerColor": [0, 0, 0],
+		"innerColor": [153,204,255],
 	      "cities": ["Strahan","Hantar","Kladan"]
 	},
 	{
@@ -924,7 +924,8 @@
 
 		"favoredReligion": "Catholicism",
 		"uniqueName": "Diplomatic Marriage",
-		"uniques": ["Can spend Gold to annex or puppet a City-State that has been your ally for [5] turns."],
+		"uniques": ["[+100]% [Culture] from every [Museum]","Starts with [Mining]","[+5]% [Science] <while the empire is happy>",
+			"Can spend Gold to annex or puppet a City-State that has been your ally for [7] turns."],
 		"cities": ["Vienna", "Salzburg", "Graz", "Linz", "Klagenfurt", "Bregenz", "Innsbruck", "Kitzbühel",
 			"St. Pölten", "Eisenstadt", "Villach", "Zwettl", "Traun", "Wels", "Dornbirn", "Feldkirch",
 			"Amstetten", "Bad Ischl", "Wolfsberg", "Kufstein", "Leoben", "Klosterneuburg", "Leonding",
