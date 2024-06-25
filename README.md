@@ -1,6 +1,7 @@
 # Miniun
 Just a difficulty change
-
+"Christ's Orthopraxy",
+  "Holy Orthopathy"
 {
 		"name": "Coffee Hacienda",
 		"uniqueTo": "Colombia",
